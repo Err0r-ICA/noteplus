@@ -1,4 +1,6 @@
-# noteplus
+![logo](https://i.ibb.co/ncwsHQ3/OIG4.jpg)
+
+# Noteplus
 Boosted Notepad++
 
 
